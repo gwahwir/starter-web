@@ -26,4 +26,4 @@ Please fork this repo and issue pull requests
 
 ## Copyright
 
-copyright gitgitgit
+copyright gitgitgit. all rights reserved.
