@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Hello i am a cat -- scratch -- meow@twitter
 
 # THANKS
 
