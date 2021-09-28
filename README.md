@@ -12,4 +12,6 @@ To learn how to use GIT and GITHUB together
 
 ## Deployment
 
+Sent via email to all users
+
 ## How to Contribute
