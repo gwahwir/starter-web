@@ -4,6 +4,8 @@ This repository is for showing how Git and GitHub work
 
 adding a line for rebasing,
 
+emergency fix for testing
+
 more changes from myfeature branch too
 
 ## Introduction
