@@ -15,3 +15,5 @@ To learn how to use GIT and GITHUB together
 Sent via email to all users
 
 ## How to Contribute
+
+Give me MONEYYYYY!!!!
