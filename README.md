@@ -17,3 +17,7 @@ Sent via email to all users
 ## How to Contribute
 
 Give me MONEYYYYY!!!!
+
+## Copyright
+
+copyright gitgitgit
