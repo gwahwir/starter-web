@@ -18,6 +18,8 @@ Sent via email to all users
 
 Give me MONEYYYYY!!!!
 
+Please fork this repo and issue pull requests
+
 ## Copyright
 
 copyright gitgitgit
